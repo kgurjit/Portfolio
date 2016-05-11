@@ -211,6 +211,10 @@ form a.btn {
 	img.profile-image {
     	width: 200px;
     }
+
+    body {
+    	overflow-x: hidden;
+    }
 }
 @media only screen and (max-width: 640px) {
 	.wrapper, .header-container, .main-content, .right-content {
@@ -240,6 +244,10 @@ form a.btn {
 	nav li {
 		margin: 75px;
 	}
+
+	body {
+    	overflow-x: hidden;
+    }
 }
 
 
